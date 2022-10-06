@@ -1,0 +1,28 @@
+h1{
+    color:blue;
+    /*font-size:40px;*/
+}
+#first-heading{
+    color:blueviolet;
+}
+.brown{
+    color:brown;
+}
+.blue{
+    color:blue;
+}
+.box{
+    width:400px;
+    height:400px;
+    /*background-color: blueviolet;*/
+    border: 5px solid;
+    padding: 25px;
+    margin: 16px 24px;
+    border-radius: 50%;
+}
+p{
+    font-size: 2rem;
+}
+#red-color{
+    color:red;
+}

@@ -1,0 +1,29 @@
+body{
+    margin:0px;
+    
+}
+.container{
+    padding: 16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.container > div h1{
+    text-align: center;
+}
+.intro{
+    margin: -16px;
+    padding: 16px;
+    background-color: #1d1c1c;
+    color:white;
+    text-align: center;
+}
+.intro img{
+    border-radius: 16px;
+}
+.social-links img{
+    width : 30px;
+    height: 30px;
+}
+.social-links a{
+    text-decoration: none;
+    margin: auto 16px;
+}
